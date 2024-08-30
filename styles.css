@@ -1,0 +1,18 @@
+/* .container-fluid{
+    border: 2px solid black;
+    
+}
+.row{
+    border: 1px solid blue;
+    color: red;
+}
+.col{
+    border: 1px solid green;
+} */
+.container-fluid{
+    border: 2px solid black;
+}
+.container-fluid img{
+    height: 70px;
+    width: 70px;
+}
